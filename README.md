@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexkor75
-- 👀 I’m interested in teaching foreign languages
+- 👀 I’m interested in teaching foreign languages and coding in python
 - 🌱 I’m currently learning python, that's my hobby
-- 💞️ I’m looking to collaborate on learning coding and processes automation
+- 💞️ I’m looking fot collaboration in learning coding and processes automation
 - 📫 How to reach me: alex.in.thai2022@gmail.com
 - 😄 Pronouns: Alex
 - ⚡ Fun fact: 
